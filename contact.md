@@ -3,6 +3,8 @@ title: "Contact"
 order: 2
 in_menu: true
 ---
+![logo]({% link images/logocomplet-hi.png %})
+
 Pour nous contacter :
 
 [brasserie@auborddulit.fr](mailto:brasserie@auborddulit.fr)
