@@ -1,5 +1,5 @@
 ---
-title: "Accueil"
+title: "![logo]({% link images/logocomplet-hi.png %})"
 order: 0
 in_menu: true
 ---
