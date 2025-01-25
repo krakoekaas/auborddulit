@@ -1,16 +1,16 @@
 :root {
-    --couleur-primaire : #53606C;
+    --couleur-primaire : #ffffff;
 }
 
 body {
-color: #ffffff;
-background-color:#53606C;
-font-family: Arial,monospace;
+color: #000000;
+background-color:#ffffff;
+font-family: Helvetica,monospace;
 }
 
 h1 {
 font-size: 20px;
-color: #000000;
+color: #ffffff;
 }
 
 footer, .skip-links{
