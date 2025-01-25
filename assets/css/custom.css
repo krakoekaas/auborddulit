@@ -10,7 +10,10 @@ font-family: Helvetica,monospace;
 
 h1 {
 font-size: 20px;
-color: #ffffff;
+}
+
+a {
+color: #e2af78;
 }
 
 footer, .skip-links{
