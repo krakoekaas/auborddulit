@@ -2,6 +2,12 @@
     --couleur-primaire : #53606C;
 }
 
+body {
+color: #ffffff;
+background-color:#53606C;
+font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
+}
+
 h1 {
 font-size: 20px;
 color: #000000;
