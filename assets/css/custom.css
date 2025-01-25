@@ -6,3 +6,7 @@ h1 {
 font-size: 20px;
 color: #000000;
 }
+
+footer, .skip-links{
+    display: none;
+}
