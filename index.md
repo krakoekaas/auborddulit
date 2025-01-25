@@ -3,7 +3,7 @@ title: "accueil"
 order: 0
 in_menu: true
 ---
-![logo]({% link images/logocomplet-hi.png %})
+![logo]({% link images/logocomplet-blanc.png %})
 
   
   
